@@ -1,2 +1,2 @@
-# LeetCode Answers
+# Competitive Coding
 
