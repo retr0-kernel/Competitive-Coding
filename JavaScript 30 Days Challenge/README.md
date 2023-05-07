@@ -3,9 +3,11 @@
 
 Every day starting May 5, LeetCode will pick one JavaScript problem to solve. Solve the daily problem to win rewards and master basic JavaScript skills. JavaScript beginners are welcome to join the event.
 
-| Day | Topic	     | Problem	                | Editorial |
-| :-------- | :------- | :------------------------- | :-------- |
-| 1 - Today's Problem	 | Closure | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?gio_link_id=QPDw0kJR) | Editorial          |
+| Day | Topic	     | Problem	                |
+| :-------- | :------- | :------------------------- |
+| 1 | Closure | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?gio_link_id=QPDw0kJR) |
+| 2 | Closure | [Counter](https://leetcode.com/problems/counter/?gio_link_id=xogkVqBo) | 
+| 3 | Closure | [Counter II](https://leetcode.com/problems/counter-ii/?gio_link_id=xRxVYOXo) | 
 
 ## 📜 Rules
 
