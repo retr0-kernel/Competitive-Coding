@@ -36,3 +36,25 @@ int fib(int n){
     return f[n];
 }
 ```
+
+Q. A boy can either take 1 or 2 steps at a time. He has to climb n steps in total. In how many ways he can do that?(N steps problem)
+
+```
+int run(int n){
+    if(n==0||n==1||n==2){
+        return n;
+    }
+    else{
+        return run(run(n-1)+run(run(n-2)));
+    }
+}
+int main(){
+    int n = 10;
+    cout<<run(n);
+
+    return 0;
+}
+```
+
+Q. Coin Change Problem
+
