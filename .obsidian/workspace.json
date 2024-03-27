@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "9b84c2186f1c0966",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c6b7ea88cb1e590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3123e21afe16e193",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "725bc5875b531c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9d5233ffcb086c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f4fd37f9a82a0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebd14e01f7bfad77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d2309a602fdb416",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e44d48cad10cc623",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3fa1fcee410159d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03257f7b77a59f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c47def9ff025212",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07cdccfc4896ac5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49575ee0284a30dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "54f4fd37f9a82a0c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Problems/292-nim-game/README.md",
+    "GFG DS/BITWISE Operators in CPP.md",
+    "Leet.md",
+    "Solve SQL - Hackerrank/SQL (Placement Training 23-02-2024).md",
+    "dynamicProgramming/Coin Problem/Variant - Ways/REAMDE.md",
+    "Untitled 1.md",
+    "GFG DS"
+  ]
+}
