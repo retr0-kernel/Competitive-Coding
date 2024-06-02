@@ -11,8 +11,12 @@
             "id": "3123e21afe16e193",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linked Lists.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e44d48cad10cc623",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linked Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linked Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Linked Lists.md"
               }
             }
           }
@@ -140,15 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54f4fd37f9a82a0c",
+  "active": "3123e21afe16e193",
   "lastOpenFiles": [
+    "Linked Lists/tempCodeRunnerFile.cpp",
+    "Linked Lists/insertionAtBeginning.exe",
+    "Linked Lists/insertionatEnd.cpp",
+    "Pasted image 20240602151443.png",
+    "Pasted image 20240602145552.png",
+    "Linked Lists/insertionAtBeginning.cpp",
+    "Linked Lists/singlyLinkedList/Re-Order_List.cpp",
+    "Linked Lists/singlyLinkedList/Reverse-Linked-List.cpp",
+    "Linked Lists/singlyLinkedList/simpleLinkedList.cpp",
+    "Linked Lists/singlyLinkedList/traverseLinkedList.cpp",
+    "Linked Lists/singlyLinkedList",
+    "Linked Lists/traverseLinkedList.exe",
+    "Linked Lists/traverseLinkedList.cpp",
+    "Pasted image 20240602143746.png",
+    "Linked Lists.md",
     "Untitled.canvas",
     "Problems/292-nim-game/README.md",
     "GFG DS/BITWISE Operators in CPP.md",
     "Leet.md",
     "Solve SQL - Hackerrank/SQL (Placement Training 23-02-2024).md",
     "dynamicProgramming/Coin Problem/Variant - Ways/REAMDE.md",
-    "Untitled 1.md",
-    "GFG DS"
+    "Untitled 1.md"
   ]
 }
