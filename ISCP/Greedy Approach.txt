@@ -1,0 +1,7 @@
+Greedy Approach
+
+1. Choose booking with shortest interval (overlapping problem)
+
+Q. Write a program that creates a class activity and has private properties int starting and ending time. In the main function create a vector of n activites sort the vector in the ascending order with respect to n time.
+
+Merging overalapping intervals.
