@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6229d0f6de2ed51",
+        "id": "f3a2895cebfc4138",
         "type": "tabs",
         "children": [
           {
-            "id": "31421ed997a3fad0",
+            "id": "d4dd79a6b088c659",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "189a51eced215539",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binary Search.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31421ed997a3fad0",
+  "active": "d4dd79a6b088c659",
   "lastOpenFiles": [
+    "Count 1s in a Sorted Binary Array.md",
+    "Count Occurrences in Sorted.md",
+    "Index of First Occurrence in Sorted.md",
+    "Index of Last Occurrence in Sorted.md",
+    "Binary Search.md",
+    "recursivebinarySearch.cpp",
     "iterativebinarySearch.cpp",
     "Untitled.canvas",
     "binarySearch.exe",
-    "binarySearch.cpp",
-    "Binary Search.md"
+    "binarySearch.cpp"
   ]
 }

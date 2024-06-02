@@ -1,4 +1,3 @@
-
 ## Iterative
 
 In Binary Search we try to find midpoint. We mark the first index as `low` and the last index as `high`. Our midpoint will be 
@@ -34,3 +33,32 @@ int binarySearch(int arr[], int n, int x){
 ```
 
 ## Recursive
+
+```
+int RbinarySearch(int arr[], int low, int high, int x){
+	if(low>high){
+		return -1;
+	}
+	else {
+		int mid = (low+high)/2;
+		if(arr[mid]==x) return mid;
+		else if(arr[mid]>x){
+			return RbinarySearch(arr, low, mid-1, x);
+		}
+		else {
+			return RbinarySearch(arr, mid+1, high, x);
+		}
+	}
+	return 0;
+}
+```
+
+
+## Comparison of Iterative and Recursive Binary Search
+
+Time Complexity of Iterative - O(log n)
+Time Complexity of Recursive - O(log n)
+
+Space Complexity of Iterative - O(1)
+Space Complexity of Recursive - O(log n)
+
