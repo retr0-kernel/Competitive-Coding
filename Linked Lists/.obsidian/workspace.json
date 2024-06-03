@@ -142,16 +142,17 @@
   },
   "active": "1dc52c925e25647c",
   "lastOpenFiles": [
+    "singlyLinkedList/searchInaLinkedList_RECURSIVE_.cpp",
+    "singlyLinkedList/searchInaLinkedList_ITERATIVE_.cpp",
+    "singlyLinkedList/insertionAtGivenPosition.exe",
+    "singlyLinkedList/insertionAtGivenPosition.cpp",
+    "singlyLinkedList/insertionatEnd.cpp",
+    "singlyLinkedList/insertionAtBeginning.exe",
+    "singlyLinkedList/insertionAtBeginning.cpp",
+    "singlyLinkedList/deletionatEnd.exe",
+    "singlyLinkedList/deletionAtEnd.cpp",
+    "singlyLinkedList/deletionAtBeginning.cpp",
     "searchInaLinkedList_RECURSIVE_.cpp",
-    "search",
-    "searchInaLinkedList_ITERATIVE_.cpp",
-    "searchInaLinkedList.cpp",
-    "deletionatEnd.exe",
-    "deletionAtEnd.cpp",
-    "deletionatEnd.cpp",
-    "deletionAtBeginning.cpp",
-    "insertionAtGivenPosition.exe",
-    "insertionAtGivenPosition.cpp",
     "Insertion at B.md"
   ]
 }
