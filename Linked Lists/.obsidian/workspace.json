@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9b84c2186f1c0966",
+    "id": "c19cb641a35a3fc5",
     "type": "split",
     "children": [
       {
-        "id": "c0aa2eeec87e8919",
+        "id": "0a3b257be599dcd9",
         "type": "tabs",
         "children": [
           {
-            "id": "b776a693b90b4f67",
+            "id": "9629f99415604949",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "725bc5875b531c4a",
+    "id": "50af6facb47af4e0",
     "type": "split",
     "children": [
       {
-        "id": "c9d5233ffcb086c7",
+        "id": "9459a55ba8554f58",
         "type": "tabs",
         "children": [
           {
-            "id": "54f4fd37f9a82a0c",
+            "id": "1dc52c925e25647c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "ebd14e01f7bfad77",
+            "id": "979cecadd02f65c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "2d2309a602fdb416",
+            "id": "ba701bf745e289ff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,19 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "e44d48cad10cc623",
+    "id": "5e3b03ddc7324a3e",
     "type": "split",
     "children": [
       {
-        "id": "b3fa1fcee410159d",
+        "id": "f40eaeda99c51706",
         "type": "tabs",
         "children": [
           {
-            "id": "d03257f7b77a59f7",
+            "id": "ed5618b6af0bdfa2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -93,7 +92,7 @@
             }
           },
           {
-            "id": "3c47def9ff025212",
+            "id": "b23d3617459a15b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -104,7 +103,7 @@
             }
           },
           {
-            "id": "07cdccfc4896ac5d",
+            "id": "e219f509011b81f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +114,13 @@
             }
           },
           {
-            "id": "49575ee0284a30dc",
+            "id": "5edd7f10febc9c86",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Insertion at B.md"
+              }
             }
           }
         ]
@@ -139,28 +140,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b776a693b90b4f67",
+  "active": "1dc52c925e25647c",
   "lastOpenFiles": [
-    "Linked Lists.md",
-    "Linked Lists/tempCodeRunnerFile.cpp",
-    "Linked Lists/insertionAtBeginning.exe",
-    "Linked Lists/insertionatEnd.cpp",
-    "Pasted image 20240602151443.png",
-    "Pasted image 20240602145552.png",
-    "Linked Lists/insertionAtBeginning.cpp",
-    "Linked Lists/singlyLinkedList/Re-Order_List.cpp",
-    "Linked Lists/singlyLinkedList/Reverse-Linked-List.cpp",
-    "Linked Lists/singlyLinkedList/simpleLinkedList.cpp",
-    "Linked Lists/singlyLinkedList/traverseLinkedList.cpp",
-    "Linked Lists/singlyLinkedList",
-    "Linked Lists/traverseLinkedList.exe",
-    "Pasted image 20240602143746.png",
-    "Untitled.canvas",
-    "Problems/292-nim-game/README.md",
-    "GFG DS/BITWISE Operators in CPP.md",
-    "Leet.md",
-    "Solve SQL - Hackerrank/SQL (Placement Training 23-02-2024).md",
-    "dynamicProgramming/Coin Problem/Variant - Ways/REAMDE.md",
-    "Untitled 1.md"
+    "searchInaLinkedList_RECURSIVE_.cpp",
+    "search",
+    "searchInaLinkedList_ITERATIVE_.cpp",
+    "searchInaLinkedList.cpp",
+    "deletionatEnd.exe",
+    "deletionAtEnd.cpp",
+    "deletionatEnd.cpp",
+    "deletionAtBeginning.cpp",
+    "insertionAtGivenPosition.exe",
+    "insertionAtGivenPosition.cpp",
+    "Insertion at B.md"
   ]
 }
